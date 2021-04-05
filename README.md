@@ -1,6 +1,6 @@
 
 
-Media PeerPool is a CDN agnostic JavaScript library that reduces up to 99% of bandwidth costs for media platforms by leveraging peer-to-peer browser functionality. It works as a peer-assisted solution in which all downloaders of a specific file, or viewers of the same stream share content with each other via WebRTC (allows data sharing to work inside web pages by allowing direct peer-to-peer communication) based on location and latency, reducing the load of the network dramatically, thus improving the overall performance.
+Media PeerPool is a CDN agnostic system that reduces up to 99% of bandwidth costs for media platforms by leveraging peer-to-peer browser functionality. It works as a peer-assisted solution in which all downloaders of a specific file, or viewers of the same stream share content with each other via WebRTC (allows data sharing to work inside web pages by allowing direct peer-to-peer communication) based on location and latency, reducing the load of the network dramatically, thus improving the overall performance.
 
 ### Live Streaming Example
 
